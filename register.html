@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>REGISTRATION</h1>
+    <form>
+        <div>
+            <label>Full Name</label>
+        </div>
+        <div>
+            <input type="text" name="full name" placeholder="Chimaobim Richard" required>
+        </div>
+       
+       
+       
+        Email<div>
+        <input type="email" name="email" id="email" placeholder="blaisekiddo@gmail.com" required>
+       </div>
+       Password<div>
+        <input type="password" name="password" id="password" required>
+       </div>
+        
+       
+       
+       <div>
+            <label for="gpz"> Geopolitical zone</label>
+        <select name="gpz" id="gpz" required>
+        <option value="South-South"> South-South </option>
+        <option value="North-Central"> North-Central </option> 
+        <option value="South-East"> South-East </option>
+        <option value="South-Wast"> South-West </option>
+        </select>
+        
+        
+        
+        <div>
+            <label for="gender">Gender</label>
+        </div>
+        
+        
+        
+        <div>
+            <label for="male">male</label>
+            <input type="radio" name="gender" id="male" required>
+            <label for="female">female</label>
+            <input type="radio" name="gender" id="female">
+        </div>
+       
+       
+       
+        <div>
+            <label for="dob"> Date of birth</label>
+            <input type="date" name="dob" id="dob" required>
+        </div>
+        
+        
+        
+        <div>
+            <label for="passport">Passport</label>
+            <input type="file" name="passport" id="passport" required>
+        </div>        
+       
+       
+       
+        <div>
+            <label for="credentials">credentials</label>
+            <input type="file" name="credentials" id="credentials" multiple>
+        </div>
+       
+       
+       
+        <div>
+            <label for="comment"> Leave a comment </label>
+            <textarea name="comment" id="comment" cols="20" rows="10" maxlength="100"></textarea>
+        </div>
+        <!--  input type="passsword" name="password" id="password" disabled-->
+        <button type="submit"> Submit </button>
+    </form>
+</body>
+</html>
