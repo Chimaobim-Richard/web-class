@@ -1,0 +1,17 @@
+:root{
+    --col-1:blue;
+    --col-2:red;
+    --col-3:black;
+    --col-4:white;
+}
+body{
+    background-image: url(b.avif) ;
+    background-repeat: no-repeat;
+    opacity: 50%;
+}
+form:hover{
+    opacity: 100%;
+}
+p{
+    color: var(--col-4);
+}

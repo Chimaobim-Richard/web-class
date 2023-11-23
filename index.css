@@ -1,0 +1,24 @@
+h2{
+    color: blueviolet;
+}
+p{
+    font-size: 40px;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    color:blue
+}
+.section h1{
+    color: crimson;
+}
+.section p{
+    color: green;
+}
+.footer{
+    background-color: darkmagenta;
+}
+.copyright>p {
+    color: aqua;
+}

@@ -1,0 +1,29 @@
+:root{
+    --primary:orange;
+    --sec:black;
+    --tet:red;
+}
+input[type="password"]{
+    background-color: rgb(12, 12, 137);
+}
+form button{
+    background-color: rgb(0, 0, 0);
+    color: black;
+    border: none;
+    padding: 20px;
+    width: 10%;
+    border-radius: 10px;
+}
+form button:hover{
+    background-color: rgb(215, 44, 44);
+    border: solid var(--tet) 1px;
+    color: var(--primary);
+    cursor: pointer;
+}
+form{
+    width: auto;
+    padding: 100px;
+    border: solid red 20px;
+    border-radius: 10px;
+}
+

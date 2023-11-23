@@ -1,0 +1,36 @@
+:root{
+    --primary:black;
+    --sec:white;
+    --tet:blue;
+}
+body{
+    font-family: 'Times New Roman';
+    color: var(--sec);
+    background-color: var(--primary);
+    width: 60%;
+    margin: 20%;
+}
+.section{
+    width: 60%;
+    margin-left: 20%;
+}
+#tr{
+    width: 4.5%;
+    border:solid var(--primary)5px;
+    border-radius: 100px;
+}
+a{
+    color: rgb(157, 157, 59);
+}
+h2{
+    font-size: 3.5em;
+}
+h3{
+    font-size: 3em;
+}
+p{
+    font-size: 1.5em;
+}
+img{
+    text-align: center;
+}

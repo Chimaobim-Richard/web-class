@@ -4,9 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="register.css">
 </head>
+<style>
+    body{
+        border: solid black 2px;
+    }
+</style>
 <body>
     <h1>REGISTRATION</h1>
+    <div class="nav">
+        <menu>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href=""> About Us</a></li>
+                <li><a href="">Contact us</a></li>
+            </ul>
+        </menu>
+            <div id="section">
+                <h3> Lorem ipsum dolor sit.</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, excepturi?</p>
+            </div>
+       <h1 id="home">Home</h1><hr>
+      
+    </div>
     <form>
         <div>
             <label>Full Name</label>
@@ -67,7 +88,7 @@
        
        
         <div>
-            <label for="credentials">credentials</label>
+            <label for="credentials">Credentials</label>
             <input type="file" name="credentials" id="credentials" multiple>
         </div>
        
@@ -75,10 +96,12 @@
        
         <div>
             <label for="comment"> Leave a comment </label>
-            <textarea name="comment" id="comment" cols="20" rows="10" maxlength="100"></textarea>
+            <textarea name="comment" id="comment" cols="20" rows="10" maxlength="100">
+            waiting... 
+            </textarea>
         </div>
         <!--  input type="passsword" name="password" id="password" disabled-->
-        <button type="submit"> Submit </button>
+        <button type="submit"> Submit</button>
     </form>
 </body>
 </html>

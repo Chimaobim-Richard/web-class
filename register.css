@@ -1,0 +1,36 @@
+:root{
+    --primary:orange;
+    --sec:black;
+    --tet:red;
+}
+/* These colours are used to modify the appearanced of the website at any point */
+
+
+.nav{
+    background-color: blanchedalmond;
+}
+/* This is for div class  */
+#section{
+    background-color: rgb(58, 97, 4);
+}
+/* This is for div id */
+
+p{
+    font-weight: 300;
+}
+#home{
+    text-align: center;
+    text-transform: var(--primary);
+    font-family: 'Lucida San';
+}
+input{
+    border-color: rgb(9, 130, 17);
+    border-radius: 3px;
+}
+body{
+    text-align: center;  
+}
+body{
+    border: solid;
+    border-color: grey;
+}
