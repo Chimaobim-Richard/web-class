@@ -6,18 +6,18 @@ console.log(typeof(num))
 // strings
 // strings are indexed
 
-// let username = 'solensky'
+ let username = 'solensky'
 
-// console.log(username[5]) // s
+ console.log(username[5]) // s
 
-// console.log(username.indexOf('n')) // 4
+ console.log(username.indexOf('n')) // 4
 
-// let re = username.toUpperCase()
+ let re = username.toUpperCase()
 
-// let lc = username.toLowerCase()
+ let lc = username.toLowerCase()
 
-// console.log(re)
-// console.log(lc)
+ console.log(re)
+ console.log(lc)
 
 // chaining methods
 

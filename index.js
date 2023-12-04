@@ -27,39 +27,52 @@
 
 // console.log(acc)
 
-let x = 32928%2
-let y = 299876%2
-let z = 28565%2
+// let x = 32928%2
+// let y = 299876%2
+// let z = 28565%2
 
-console.log(x)
-console.log(y)
-console.log(z)
+// console.log(x)
+// console.log(y)
+// console.log(z)
 
-let rice = 55000
-let milk = 30000
-let shoes = 12000
+// let rice = 55000
+// let milk = 30000
+// let shoes = 12000
 
-let total = rice + milk + shoes
+// let total = rice + milk + shoes
 
-rice = 15/100*rice
-milk = 15/100*milk
-shoes = 15/100*shoes
+// rice = 15/100*rice
+// milk = 15/100*milk
+// shoes = 15/100*shoes
 
 
-console.log(rice)
-console.log(milk)
-console.log(shoes)
-console.log(total)
+// console.log(rice)
+// console.log(milk)
+// console.log(shoes)
+// console.log(total)
 
-let hours =34892/60
+// let hours =34892/60
 
-console.log(hours)
+// console.log(hours)
 
-let finalacc = 700000-total
+// let finalacc = 700000-total
 
-console.log(finalacc)
+// console.log(finalacc)
 
-let prin = 5000
-let rate = 5/100
-let yrs = 4
+// let prin = 5000
+// let rate = 5/100
+// let yrs = 4
 
+console.log('22' == 22)
+console.log('22' === 22)
+console.log('4'!= 4)
+console.log('4' !== 4)
+console.log('hello'. length)
+console.log(true == false)
+console.log(true === false)
+console.log(true == true)
+console.log(true == 1)
+console.log(true === 1)
+console.log(true === false)
+console.log(false === 0)
+console.log(false == 0)

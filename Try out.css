@@ -5,8 +5,9 @@
     --col-4:white;
 }
 body{
-    background-image: url(b.avif) ;
+    background-image: url(dr.avif) ;
     background-repeat: no-repeat;
+    background-size: cover;
     opacity: 50%;
 }
 form:hover{

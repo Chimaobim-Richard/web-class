@@ -1,0 +1,277 @@
+.up{
+    background-image: url(Discord\ bg.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+    padding-bottom: 100px;
+}
+nav{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+    margin-left: 37px;
+    margin-top: 15px;
+}
+.thediscorder{
+    margin-left: 12px;
+    color: white;
+    font-size: 1.2em;
+    margin-top: 9px;
+    font-family: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.a{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 4px;
+    color: white;
+}
+.ha{
+    margin-left: 30px;
+}
+.ha:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.login{
+    margin-left: 220px;
+    margin-top: 20px;
+}
+.login>button{
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+}
+.first{
+    text-align: center;
+    margin-top: 50px;
+}
+.true{
+    font-family:  "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 3.8em;
+    font-weight: 900;
+    margin-top: 160px;
+    font-stretch: expanded;
+    color: white;
+}
+.yes{
+    font-size: 1.2em;
+    margin-top: 30px;
+    color: white;
+}
+.together{
+    margin-top: 70px;
+}
+.windows{
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 15px;
+    color: black;
+    background-color: white;
+}
+.windows:hover{
+    color: #79b3d0;
+    cursor: pointer;
+    box-shadow:1px 3px 1px 3px rgb(52, 52, 52);
+}
+.browser{
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 15px;
+    padding-top: 18px;
+    margin-left: 15px;
+    color: white;
+    background-color: black;
+}
+.browser:hover{
+    cursor: pointer;
+    box-shadow:1px 3px 1px 3px rgb(52, 52, 52);
+}
+.container{
+    display: flex;
+    margin-left: 80px;
+}
+.img{
+    border: solid 1px white; ;
+    padding: 0;
+    width: 50%;
+}
+.img>img{
+    width: 100%;
+}
+.text{
+    margin-left: 10pc;
+    margin-top: -30px;
+}
+h2{
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 1.3em;
+    line-height: 30px;
+}
+.third{
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 130px;
+    background-color: #f6f6f6;
+    padding-top: 160px;
+    padding-bottom: 130px;
+}
+.fun{
+    margin-left: 40px;
+}
+.pic{
+    border: solid 1px #f6f6f6;
+    padding: 0;
+    width: 50%;
+    
+}
+.pic>img{
+    width: 100%;
+    margin-left: 170px;
+}
+.fourth{
+    display: flex;
+    margin-bottom: 120px;
+}
+.fourth>.text{
+    margin-top: 35px;
+    margin-left: 220px;
+}
+.fifth{
+    text-align: center;
+    background-color: #f6f6f6;
+    padding: 90px;
+}
+.only{
+    font-stretch: ultra-expanded;
+    margin-bottom: 90px;
+}
+.big{
+    border: solid 1px #f6f6f6;
+    padding: 0;
+    width:105%;
+    margin-left: -200px;
+}
+.big>img{
+    width: 100%;
+    margin-left: 170px;
+}
+.real{
+    margin-top: 210px;
+    margin-left: -130px;
+    text-align: center;
+}
+.real>.Ready{
+     border: solid 1px #f6f6f6;
+    padding: 0;
+    width: 50%;
+}
+.Ready>img{
+    width: 100%;
+    margin-left: 360px;
+}
+.real>.text{
+    font-size: 2em;
+}
+.real>button{
+    color: white;
+    background-color: #4e5cf2;
+    border-radius: 50px;
+    border-color: white;
+    font-size: 1.2em;
+    padding: 15px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.real>button:hover{
+    box-shadow: inset;
+    cursor: pointer;
+}
+#icons{
+    margin-left: 80px;
+}
+.footer{
+    background-color: #23272a;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.always{
+    margin-left: 40px;
+}
+#icons{
+    margin-left: 30px;
+    margin-top: 60px;
+}
+#icons>svg{
+    margin-left: 10px;
+}
+#icons>svg:hover{
+    zoom: 110%;
+    cursor: pointer;
+}
+.itis{
+    display: flex;
+    margin-left: 140px;
+    margin-top: -150px;
+}
+.we>h4{
+    color: #334be4;
+}
+.we>p{
+    font-size: 1em;
+    line-height: 20px;
+}
+.we>p:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+.product{
+    margin-left: 270px;
+}
+.company{
+    margin-left: 100px;
+}
+.resources{
+    margin-left: 100px;
+}
+.policies{
+    margin-left: 100px;
+}
+hr{
+    color: #334be4;
+}
+.last{
+    display: flex;
+}
+#sharp{
+    display: flex;
+}
+.ok{
+    margin-left: 50px;
+    margin-top: 38px;
+}
+.writeup{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.signup{
+    margin-left: 950px;
+    margin-top: 40px;
+}
+.signup>button{
+    color: white;
+    background-color: #5865f2;
+    padding: 12px;
+    border-radius: 30px;
+}
+.signup>button:hover{
+    background-color: #9295f6;
+    cursor: pointer;
+    transition-delay: 200ms;
+}
